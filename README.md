@@ -1,3 +1,6 @@
+![Project Banner](./banner.jpg)
+banner.jpg
+
 # Async Orchestrator
 
 A resilient, multi-agent orchestration engine enabling collaborative AI-driven solutions across diverse domains. Built on asynchronous execution, circuit breakers, fallback logic, and instrumentation, this system routes queries to specialized roles (Proposer, Critic, Synthesizer, Implementer, Validator, Observer) powered by OpenAI and Anthropic models under epistemic democracy principles.
